@@ -30,13 +30,16 @@ Programming languages | Database  | Web development | Networking and security | 
 Java | PostgreSQL | Angular | Networking Essentials | Windows 10
 Python | MySQL | Django | Cybersecurity Essentials | Ubuntu
 C/C++ | MongoDB | React | | ParrotOS
-Golang | | Nest.js | | ArchLinux
+JavaScript | | Nest.js | | ArchLinux
+Golang | | | |
+MATLAB | | | | 
 
 ---
 
-### Github Stats
-![Github Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+### GitHub Stats
+![GitHub Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
 ---
 
@@ -45,4 +48,4 @@ Golang | | Nest.js | | ArchLinux
 <a target="_blank" href="https://twitter.com/cristoxdxd_tw"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/cristo.dev/"><img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>  
 <!-- [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) -->
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cristoxdxd.cristoxdxd) -->
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=cristoxdxd.cristoxdxd)
