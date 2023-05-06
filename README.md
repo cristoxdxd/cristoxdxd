@@ -16,6 +16,12 @@ I once coded a Python program that utilized SQL, despite having limited knowledg
 
 ---
 
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ### GitHub Stats
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
@@ -23,10 +29,6 @@ I once coded a Python program that utilized SQL, despite having limited knowledg
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
 ---
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristo.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristoxdxd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cristoxdxd_tw) 
 
