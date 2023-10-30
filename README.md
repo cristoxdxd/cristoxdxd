@@ -8,7 +8,7 @@
 
 ---
 
-I'm constantly learning new things and right now I'm focusing on Data Structures & Algorithms. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
+I'm constantly learning new things and right now I'm focusing on Mobile Apps. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
 
 ## ⚡ Fun fact
 
