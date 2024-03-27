@@ -8,11 +8,7 @@
 
 ---
 
-I'm constantly learning new things and right now I'm focusing on Mobile Apps. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
-
-## ⚡ Fun fact
-
-I once coded a Python program that utilized SQL, despite having limited knowledge of databases at the time. Through the process of building the program, I gained valuable experience and knowledge about databases and how to integrate them with other technologies.
+I'm constantly learning new things. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
 
 ---
 
