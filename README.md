@@ -22,7 +22,7 @@ I'm constantly learning new things. I believe that continuous learning is essent
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
 ![GitHub Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight&hide=css,html,javascript,java,typescript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight&hide=css,html,javascript,java,typescript,c,c%2B%2B)
 
 ---
 
