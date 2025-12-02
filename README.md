@@ -10,9 +10,9 @@
 
 I'm constantly learning new things. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
 
----
+<!-- ---
 
-<!-- ### GitHub Stats
+### GitHub Stats
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
 ![GitHub Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
