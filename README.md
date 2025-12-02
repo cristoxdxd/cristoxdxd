@@ -9,20 +9,14 @@
 ---
 
 I'm constantly learning new things. I believe that continuous learning is essential to keep up with the rapidly evolving technology landscape.
-<!--
----
-
-### Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 ---
 
-### GitHub Stats
-<!--
+<!-- ### GitHub Stats
+
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
-![GitHub Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight&hide=css,html,java,c%2B%2B,assembly,makefile,jupyter%20notebook)
+![GitHub Stats Cristopher Herrera](https://github-readme-stats.vercel.app/api?username=cristoxdxd&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cristoxdxd&layout=compact&langs_count=10&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight&hide=css,html,java,c%2B%2B,assembly,makefile,jupyter%20notebook) -->
 
 ---
 
